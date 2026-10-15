@@ -26,7 +26,7 @@ I'm a commerce graduate in Financial Markets with 2.8 years of experience in com
 Data Analytics | Business Analytics | Risk Analytics | Compliance Analytics | Banking & Financial Services
 
 🤝 Let's Connect
-I'm interested in connecting with data analytics professionals and exploring opportunities in banking, financial services, and NBFCs.## Hi there 👋
+I'm interested in connecting with data analytics professionals and exploring opportunities in banking, financial services, and NBFCs.
 
 <!--
 **Rishika-29/Rishika-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
